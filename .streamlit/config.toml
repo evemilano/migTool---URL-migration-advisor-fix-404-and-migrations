@@ -1,0 +1,13 @@
+[browser]
+gatherUsageStats = false
+serverAddress = "localhost"
+
+[deprecation]
+showPyplotGlobalUse = false
+
+[theme]
+base="light"
+
+[server]
+enableCORS = false
+maxUploadSize = 20
